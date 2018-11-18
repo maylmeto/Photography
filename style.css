@@ -1,0 +1,32 @@
+#header .custom-navbar{
+    background-color:rgb(111, 55, 214) !important;
+}
+#header a{
+    padding: 20px;
+}
+
+#gallery{
+    margin-bottom: 30px;
+}
+
+#contact-us{
+    background-color: #ececec;
+    padding-bottom: 5px;
+
+}
+
+#contact-us form{
+    margin: 20px 0px;
+
+
+}
+
+#footer{
+    background-color: grey;
+    color: #fff;
+}
+
+#footer p{
+    margin: 0px;
+    padding: 20px;
+}
